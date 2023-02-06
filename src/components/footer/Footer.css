@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+.footer {
+    background-color: #6278F7;
+    margin: 0;
+    padding: 0;
+    height: 213px;
+}
+
+.footer-content {
+    background: url('../../../public/imagens/fundo.png');
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 89px;
+}
+
+.footer-content ul{
+    display: flex;
+    width: 134px;
+    justify-content: space-between;
+
+}
+
+.footer-content p {
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
